@@ -107,10 +107,10 @@ function Airplane(name) {
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
-    4. 
+    1. Implicit Binding: Whatever is written to the left side of the .(period) becomes that part for the "this"
+    2. New Binding: This creates a function that can be called back with a this() value
+    3. Global Binding: The object always exists in the global scope and can be accessed as properties of the window object. 
+    4. Explicit Binding: Calls a function to the first argument and can optionally pass it through in any other arguments. 
   */
   
   
